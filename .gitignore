@@ -1,0 +1,4 @@
+**/.venv
+yolov*
+data/
+.DS_Store
