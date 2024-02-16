@@ -13,7 +13,7 @@ This project is an POC implementation of video object detection using OpenCV and
 
 To install and set up the project, follow these steps:
 
-1. Clone the repository: `$ git clone https://https://github.com/jansonz/yolov8-video-object-detection`
+1. Clone the repository: `$ git clone https://github.com/jansonz/yolov8-video-object-detection`
 2. Navigate to the project directory: `$ cd yolov8-video-object-detection`
 3. Install the required dependencies: `$ pip install -r requirements.txt`
 
